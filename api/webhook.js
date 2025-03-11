@@ -13,6 +13,8 @@ const STATES = {
   PRODUCT_PRICE: 'PRODUCT_PRICE'
 };
 
+//hsjdkfhjkfhgdjkfg
+
 // Store user data
 const userDataDict = {};
 
