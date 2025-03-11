@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/webhook.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "env": {
+    "TELEGRAM_TOKEN": "8126996910:AAGcidCXkjc53ONoGv681Q_c4jEDdQwDvOc"
+  }
+}
